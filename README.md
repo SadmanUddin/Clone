@@ -2,4 +2,4 @@
 // I only used HTML and CSS 
 // Took all the necessary images and links from real netflix website 
 // Hope you guys will understand it better
-
+TECH used- 1.HTML 2.CSS
